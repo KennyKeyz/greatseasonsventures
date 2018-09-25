@@ -52,7 +52,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 
-gem 'bootstrap', '~> 4.0.0'
+gem 'bootstrap', '~> 4.1.2'
 gem 'jquery-rails'
-gem 'therubyracer', '~> 0.12.3'
+gem 'mini_racer', '~> 0.2.1'
 gem 'jquery-ui-rails', '~> 5.0', '>= 5.0.5'

@@ -7,8 +7,8 @@
 body {
   font-family: 'Lora';
 
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))),image-url('bg.jpg');
-  
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(47, 23, 15, 0.65))),url('https://dl.dropboxusercontent.com/s/9loadhhj79srx7e/section-one-background.png?dl=0');
+
 
 
   background-attachment: fixed;
@@ -79,12 +79,12 @@ p {
 }
 
 #mainNav {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgb(78, 129, 59);
   font-family: 'Raleway';
 }
 
 #mainNav .navbar-brand {
-  color: #e6a756;
+  color: #FFFFFF;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -149,7 +149,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.9);
+  background-color: rgb(58, 124, 32);
 }
 
 .cta .cta-inner {
@@ -229,7 +229,7 @@ p {
 }
 
 .footer {
-  background-color: rgba(47, 23, 15, 0.9);
+  background-color: rgb(78, 129, 59);
 }
 
 .text-primary {
@@ -246,8 +246,8 @@ p {
 }
 
 .btn-primary {
-  background-color: #e6a756;
-  border-color: #e6a756;
+  background-color: #4e813b;
+  border-color: #4e813b;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
